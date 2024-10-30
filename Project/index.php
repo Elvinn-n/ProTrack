@@ -53,11 +53,6 @@ https://templatemo.com/tm-586-scholar
                     <a href="index.html" class="logo">
                         <h1>ProTrack</h1>
                     </a>
-                    <!-- ***** Logo End ***** -->
-                    <!-- ***** Serach Start ***** -->
-                    
-                    <!-- ***** Serach Start ***** -->
-                    <!-- ***** Menu Start ***** -->
                     <ul class="nav">
                       <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
                       <li class="scroll-to-section"><a href="#features">Features</a></li>
